@@ -1,0 +1,258 @@
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 10.85 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 11.61 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 11.93 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 12.73 min
+
+Repartition count = 1
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 18.04 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 17.40 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 3.90 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 3.80 min
+
+Repartition count = 2
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 7.63 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 7.26 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 1.82 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 1.84 min
+
+Repartition count = 5
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 2.28 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 2.22 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 0.83 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 0.86 min
+
+Repartition count = 10
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 1.01 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 1.09 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 0.61 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 0.54 min
+
+Repartition count = 20
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 0.70 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 0.71 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 0.62 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 0.64 min
+
+Repartition count = 100
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 1.39 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 1.41 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 1.20 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 1.22 min
+

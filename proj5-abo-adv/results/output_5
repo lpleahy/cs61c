@@ -1,0 +1,36 @@
+Simple PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.26285432695
+4037 0.479118005412
+4036 0.440891712532
+4035 0.291189811003
+4034 0.618239329796
+Time elapsed: 39.16 min
+
+Backedges PageRank, Facebook Dataset
+Weight of five nodes:
+4038 3.34456588439
+4037 0.411649923028
+4036 0.369151472767
+4035 0.232593380963
+4034 0.566645661894
+Time elapsed: 41.17 min
+
+Simple PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.308811458727
+36690 1.0
+36689 1.0
+36688 0.551918316746
+36687 0.551918316746
+Time elapsed: 45.86 min
+
+Backedges PageRank, Enron Dataset
+Weight of five nodes:
+36691 0.0894168699942
+36690 1.0
+36689 1.0
+36688 0.356309588459
+36687 0.356309588459
+Time elapsed: 47.72 min
+

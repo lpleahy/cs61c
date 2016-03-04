@@ -1,0 +1,2 @@
+1. r <args> //can use "run" instead of "r"
+2. 

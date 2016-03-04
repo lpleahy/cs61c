@@ -1,0 +1,5 @@
+Exercise 1:
+  * __m128 _mm_div_ps (__m128 a, __m128 b)
+  * __m128i _mm_max_epu8 (__m128i a, __m128i b)
+  * __m128i _mm_sra_epi16 (__m128i a, __m128i count) or __m128i _mm_srai_epi16 (__m128i a, int imm8) (?)
+

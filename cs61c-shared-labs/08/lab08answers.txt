@@ -1,0 +1,11 @@
+1. 
+	1. Step size.
+	2. Still 0.
+	3. We could make step size = 0. 
+2.	1. Cache holds 4 words (4 ints). Load 4 ints into cache (first miss), then hit three times in a row as the current int and the next int to be loaded (2 steps forward) are in the cache. The next increment is the next set and therefore will be a miss but the pattern continues.
+	2. -> 100%
+	3. Keep going (loading elements into the cache) until we fill the cache and then do the operations on all the elements currently in the cache until we are completely finished with all of them. Only then do we move on to later elements in the array. This is called blocking.
+3.	1. Any one block holds 4 ints. It is possible that we want to access an int that is farther off into the array than this many ints forward (random). In this case, we have to miss and load said ints into the cache in order to continue.
+	2. We could make the block size larger. Mostly less than 50% hit rate before. Changed block size to 8 (so that it will include all the random possibilities) and the miss rate changed to 50% consistently. 
+3. 1. It looks like it starts to outperform it after 1000.
+   2. It starts to degrade after 500. This is likely because it doesn't take advantage of blocking to a full extent and the algorithm increasingly becomes more like the naive solution.
